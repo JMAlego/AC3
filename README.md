@@ -1,4 +1,4 @@
-# Simplistic AC3 Implementation for CONS Module
+# Simplistic AC3 Implementation
 
 This is a simple implementation of AC3 algorithm for arc consistency in
 extension. This implementation was written as half of the assessment for the
